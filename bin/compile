@@ -150,4 +150,4 @@ echo $BIN
 echo $SHIM
 #export GOOGLE_CHROME_BIN=$BIN
 #export GOOGLE_CHROME_SHIM=$SHIM
-EOF
+#EOF
